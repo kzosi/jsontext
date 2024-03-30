@@ -1,4 +1,3 @@
-# jsontext
 # AWS IAM Role JSON Validator
 
 This Python script validates input JSON data against the AWS IAM Role Policy definition. It checks if the input JSON data contains a valid "Resource" field based on specific criteria.
@@ -19,7 +18,7 @@ Follow the instructions below to run the script:
 3. Run the script using the following command:
 
 ```bash
-python your_script.py input.json
+python your_script.py input.json```
 
 Replace your_script.py with the name of your Python script file containing the validate_json method, and input.json with the path to your input JSON file.
 

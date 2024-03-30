@@ -18,7 +18,8 @@ Follow the instructions below to run the script:
 3. Run the script using the following command:
 
 ```bash
-python your_script.py input.json```
+python your_script.py input.json
+```
 
 Replace your_script.py with the name of your Python script file containing the validate_json method, and input.json with the path to your input JSON file.
 
@@ -29,7 +30,9 @@ If the input JSON file is valid according to the criteria mentioned in the scrip
   2. Navigate  to the directory where you have cloned or downloaded this repository.
   3. Run the following command to execute the unit tests:
 
-```python -m unittest test_your_script.py
+```python
+  -m unittest test_your_script.py
+```
 
 Replace test_your_script.py with the name of the file containing your unit tests.
 

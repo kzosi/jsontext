@@ -25,12 +25,12 @@ Replace your_script.py with the name of your Python script file containing the v
 
 If the input JSON file is valid according to the criteria mentioned in the script, it will output Input JSON is valid: True. Otherwise, it will output Input JSON is valid: False.
 
-Running Unit Tests
+### Running Unit Tests
   1. Open a terminal or command prompt.
   2. Navigate  to the directory where you have cloned or downloaded this repository.
   3. Run the following command to execute the unit tests:
 
-python -m unittest test_your_script.py
+```python -m unittest test_your_script.py
 
 Replace test_your_script.py with the name of the file containing your unit tests.
 
